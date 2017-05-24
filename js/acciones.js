@@ -42,7 +42,7 @@ function watchPosition() {
 		maximumAge :3600000,
 		timeout : 3000,
 		eneableHighAccuracy : true,
-	}
+	}S
 	
 	var watchID = navigator.geolocation.watchPosition(onSuccess, onError, options);
 	
