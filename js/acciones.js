@@ -39,8 +39,8 @@ function getPosition () {
 
 function watchPosition() {
 	var options = {
-		maximunAge :3600000,
-		Timeout : 3000,
+		maximumAge :3600000,
+		timeout : 3000,
 		eneableHighAccuracy : true,
 	}
 	
