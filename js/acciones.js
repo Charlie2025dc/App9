@@ -17,7 +17,7 @@ function onDeviceReady() {
 function getPosition () {
 	var options = {
 		eneableHighAccuracy : true,
-		maximunAge:360000
+		maximumAge:360000
 	}
 	
 	var watchID = navigator.geolocation.getCurrentPosition(onSuccess, onError, options);
