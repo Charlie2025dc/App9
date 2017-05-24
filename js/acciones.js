@@ -10,7 +10,7 @@ function onDeviceReady() {
 		getPosition ();
 	});
 		$('#watch').on('click',function () {
-		getPosition ();
+		watchPosition ();
 		});
 }
 
