@@ -5,7 +5,7 @@
 	id ="com.phonegap.example9"
 	version ="1.0.0">
 	
-   <name> App9 Geoozalizador </name>
+   <name> App9 Geolocalizador </name>
    
     <description>
 	 Aplicación que muestra la localización de tu móvil 
